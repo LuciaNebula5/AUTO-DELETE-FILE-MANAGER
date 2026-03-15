@@ -96,7 +96,7 @@ El ejecutable estará en `dist/AutoDeleteManager.exe`
 
 ## 📄 Licencia
 
-MIT License - Siéntete libre de usar y modificar
+MIT License - Siéntete libre de usar y modificar. Pero menciona al autor siempre.
 
 ## 👤 Autor
 
